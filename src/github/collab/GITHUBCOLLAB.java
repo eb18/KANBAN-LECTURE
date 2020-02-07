@@ -15,8 +15,7 @@ public class GITHUBCOLLAB {
         System.out.println("HELLO WORLD");
     }
     static void BYEWORLD(){
-        
-        System.out.println("Bye");
+        System.out.println("Bye.");
         
     }
 
